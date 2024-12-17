@@ -1,0 +1,10 @@
+folium
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
+tensorflow
+xgboost
+Jupyter
