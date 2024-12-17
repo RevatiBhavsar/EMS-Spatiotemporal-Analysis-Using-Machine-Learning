@@ -33,7 +33,7 @@ requirements.txt: Contains the list of Python libraries required.
 Installation
 Clone the repository:
 
-bash
+|bash|
 Copy code
 git clone <repository-link>
 cd EMS-Response-Analysis
